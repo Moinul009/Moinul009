@@ -5,7 +5,7 @@
 - 📫 How to reach me www.linkedin.com/in/
 moinulislam009
 - 😄 Pronouns: his/him
-- ⚡ Fun fact: im interseted in evrything
+- ⚡ Fun fact: im interseted in everything
 
 <!---
 Moinul009/Moinul009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
